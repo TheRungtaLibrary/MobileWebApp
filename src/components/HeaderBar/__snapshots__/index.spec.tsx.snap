@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given <HeaderBar /> When it initializes matches snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-i9gxme"
+  >
+    <header
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic sc-bdvvtL eoUkvj css-hip9hq-MuiPaper-root-MuiAppBar-root"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-dense css-10ltm04-MuiToolbar-root"
+      >
+        <div
+          class="MuiBox-root css-gj1lgi"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 sc-gsDKAQ keApQy css-ahj2mt-MuiTypography-root"
+          >
+            Car Photos
+          </p>
+        </div>
+      </div>
+    </header>
+  </div>
+</div>
+`;

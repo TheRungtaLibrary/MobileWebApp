@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given <ImageCard /> When it initializes matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL bdgXaM"
+    data-testid="image-card"
+  >
+    <figure>
+      <img
+        alt="image"
+        src="https://?rule=mo-200.jpg"
+      />
+      <figcaption
+        class="sc-gsDKAQ dCXWnf"
+      >
+        <h3
+          class="MuiTypography-root MuiTypography-h3 css-gepadz-MuiTypography-root"
+        >
+          photo 
+          2
+        </h3>
+      </figcaption>
+    </figure>
+  </div>
+</div>
+`;

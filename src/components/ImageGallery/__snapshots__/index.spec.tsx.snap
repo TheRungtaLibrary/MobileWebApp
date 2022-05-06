@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given <ImageGallery /> When it initializes matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-dkPtRN kwwUQi"
+  >
+    <div
+      class="sc-hKwDye hOPITd"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2 css-1sra7t5-MuiTypography-root"
+      >
+        title
+      </h2>
+    </div>
+    <div>
+      <div
+        class="sc-bdvvtL bdgXaM"
+        data-testid="image-card"
+      >
+        <figure>
+          <img
+            alt="image"
+            src="https://img.classistatic.de/api/v1/mo-storytest/images/HqEAAOxyIPNTcg-F?rule=mo-200.jpg"
+          />
+          <figcaption
+            class="sc-gsDKAQ dCXWnf"
+          >
+            <h3
+              class="MuiTypography-root MuiTypography-h3 css-gepadz-MuiTypography-root"
+            >
+              photo 
+              1
+            </h3>
+          </figcaption>
+        </figure>
+      </div>
+      <div
+        class="sc-bdvvtL bdgXaM"
+        data-testid="image-card"
+      >
+        <figure>
+          <img
+            alt="image"
+            src="https://img.classistatic.de/api/v1/mo-storytest/images/GpoAAOxyZzlTcg-F?rule=mo-200.jpg"
+          />
+          <figcaption
+            class="sc-gsDKAQ dCXWnf"
+          >
+            <h3
+              class="MuiTypography-root MuiTypography-h3 css-gepadz-MuiTypography-root"
+            >
+              photo 
+              2
+            </h3>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+</div>
+`;
